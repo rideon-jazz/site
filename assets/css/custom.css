@@ -1,3 +1,31 @@
 .titan-title-size-4 {
   letter-spacing: 2px;
 }
+
+ul {
+  margin: 0px 0 10px;
+}
+
+body {
+  font: 400 15px/1.8 "Sawarabi Gothic", sans-serif;
+}
+
+.font-alt {
+  text-transform: unset;
+}
+
+.module-title + .module-subtitle {
+  margin-top: -28px;
+}
+
+.module-subtitle {
+  margin-bottom: 28px;
+}
+
+.module-title {
+  margin: 0px 0 30px;
+}
+
+span.nobr {
+    display: inline-block;
+}
