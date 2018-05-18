@@ -29,3 +29,7 @@ body {
 span.nobr {
     display: inline-block;
 }
+
+.navbar-custom .navbar-brand {
+  letter-spacing: 0px;
+}
