@@ -28,6 +28,7 @@ body {
 
 span.nobr {
     display: inline-block;
+    white-space: nowrap;
 }
 
 .navbar-custom .navbar-brand {
